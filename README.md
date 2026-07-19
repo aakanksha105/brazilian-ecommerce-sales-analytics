@@ -96,8 +96,7 @@ Built an interactive executive dashboard featuring:
 # Dashboard Preview
 
 ```
-screenshots/executive_dashboard.png
-```
+tableau/screenshots/executive_dashboard.png```
 
 ---
 
