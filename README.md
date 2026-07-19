@@ -95,7 +95,7 @@ Built an interactive executive dashboard featuring:
 
 ## Dashboard Preview
 
-[![Brazilian E-commerce Sales Dashboard](tableau/screenshots/executive_dashboard.png)](tableau/Brazilian_Ecommerce_Sales_Customer_Analytics.twbx)
+[![Brazilian E-commerce Sales Dashboard](tableau/screenshots/executive_dashboard.png)](tableau/dashboards/Brazilian_Ecommerce_Sales_Customer_Analytics.twbx)
 
 ---
 
