@@ -2,6 +2,11 @@
 
 An end-to-end Business Intelligence project analyzing Brazilian e-commerce transactions from 2016–2018 using PostgreSQL, SQL, Python, and Tableau. The project explores sales performance, customer activity, geographic trends, and order fulfillment through an interactive executive dashboard.
 
+## 🔗 Live Dashboard
+
+**Tableau Public:** [https://public.tableau.com/views/YourDashboardName](https://public.tableau.com/views/Brazilian_Ecommerce_Sales_Customer_Analytics_twbx/BrazilianE-commerceSalesCustomerAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+**GitHub Repository:** https://github.com/aakanksha105/brazilian-ecommerce-sales-analytics
 ---
 
 ## Project Overview
