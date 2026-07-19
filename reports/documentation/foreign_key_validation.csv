@@ -1,0 +1,7 @@
+Relationship,Missing References,Status
+Orders → Customers,0,True
+Order Items → Orders,0,True
+Order Items → Products,0,True
+Order Items → Sellers,0,True
+Payments → Orders,0,True
+Reviews → Orders,0,True

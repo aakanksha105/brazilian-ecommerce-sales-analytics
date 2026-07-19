@@ -1,0 +1,10 @@
+Dataset,Duplicate Rows,Total Rows,Duplicate %
+Customers,0,99441,0.0
+Orders,0,99441,0.0
+Order Items,0,112650,0.0
+Payments,0,103886,0.0
+Products,0,32951,0.0
+Reviews,0,99224,0.0
+Sellers,0,3095,0.0
+Geolocation,261831,1000163,26.18
+Translation,0,71,0.0

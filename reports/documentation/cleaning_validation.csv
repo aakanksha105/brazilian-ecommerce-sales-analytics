@@ -1,0 +1,10 @@
+Dataset,Rows,Columns
+Customers,99441,5
+Orders,99441,23
+Order Items,112650,11
+Payments,103886,8
+Products,32951,18
+Reviews,99224,11
+Sellers,3095,4
+Geolocation,1000163,5
+Translation,71,2

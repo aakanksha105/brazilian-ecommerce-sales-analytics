@@ -1,0 +1,53 @@
+Dataset,Column,Data Type
+Customers,customer_id,str
+Customers,customer_unique_id,str
+Customers,customer_zip_code_prefix,int64
+Customers,customer_city,str
+Customers,customer_state,str
+Orders,order_id,str
+Orders,customer_id,str
+Orders,order_status,str
+Orders,order_purchase_timestamp,str
+Orders,order_approved_at,str
+Orders,order_delivered_carrier_date,str
+Orders,order_delivered_customer_date,str
+Orders,order_estimated_delivery_date,str
+Order Items,order_id,str
+Order Items,order_item_id,int64
+Order Items,product_id,str
+Order Items,seller_id,str
+Order Items,shipping_limit_date,str
+Order Items,price,float64
+Order Items,freight_value,float64
+Payments,order_id,str
+Payments,payment_sequential,int64
+Payments,payment_type,str
+Payments,payment_installments,int64
+Payments,payment_value,float64
+Products,product_id,str
+Products,product_category_name,str
+Products,product_name_lenght,float64
+Products,product_description_lenght,float64
+Products,product_photos_qty,float64
+Products,product_weight_g,float64
+Products,product_length_cm,float64
+Products,product_height_cm,float64
+Products,product_width_cm,float64
+Reviews,review_id,str
+Reviews,order_id,str
+Reviews,review_score,int64
+Reviews,review_comment_title,str
+Reviews,review_comment_message,str
+Reviews,review_creation_date,str
+Reviews,review_answer_timestamp,str
+Sellers,seller_id,str
+Sellers,seller_zip_code_prefix,int64
+Sellers,seller_city,str
+Sellers,seller_state,str
+Geolocation,geolocation_zip_code_prefix,int64
+Geolocation,geolocation_lat,float64
+Geolocation,geolocation_lng,float64
+Geolocation,geolocation_city,str
+Geolocation,geolocation_state,str
+Translation,product_category_name,str
+Translation,product_category_name_english,str

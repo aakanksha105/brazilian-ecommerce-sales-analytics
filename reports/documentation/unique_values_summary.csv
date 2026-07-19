@@ -1,0 +1,53 @@
+Dataset,Column,Unique Values
+Customers,customer_id,99441
+Customers,customer_unique_id,96096
+Customers,customer_zip_code_prefix,14994
+Customers,customer_city,4119
+Customers,customer_state,27
+Orders,order_id,99441
+Orders,customer_id,99441
+Orders,order_status,8
+Orders,order_purchase_timestamp,98875
+Orders,order_approved_at,90733
+Orders,order_delivered_carrier_date,81018
+Orders,order_delivered_customer_date,95664
+Orders,order_estimated_delivery_date,459
+Order Items,order_id,98666
+Order Items,order_item_id,21
+Order Items,product_id,32951
+Order Items,seller_id,3095
+Order Items,shipping_limit_date,93318
+Order Items,price,5968
+Order Items,freight_value,6999
+Payments,order_id,99440
+Payments,payment_sequential,29
+Payments,payment_type,5
+Payments,payment_installments,24
+Payments,payment_value,29077
+Products,product_id,32951
+Products,product_category_name,73
+Products,product_name_lenght,66
+Products,product_description_lenght,2960
+Products,product_photos_qty,19
+Products,product_weight_g,2204
+Products,product_length_cm,99
+Products,product_height_cm,102
+Products,product_width_cm,95
+Reviews,review_id,98410
+Reviews,order_id,98673
+Reviews,review_score,5
+Reviews,review_comment_title,4527
+Reviews,review_comment_message,36159
+Reviews,review_creation_date,636
+Reviews,review_answer_timestamp,98248
+Sellers,seller_id,3095
+Sellers,seller_zip_code_prefix,2246
+Sellers,seller_city,611
+Sellers,seller_state,23
+Geolocation,geolocation_zip_code_prefix,19015
+Geolocation,geolocation_lat,717363
+Geolocation,geolocation_lng,717615
+Geolocation,geolocation_city,8011
+Geolocation,geolocation_state,27
+Translation,product_category_name,71
+Translation,product_category_name_english,71

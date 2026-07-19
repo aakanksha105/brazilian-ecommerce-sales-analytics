@@ -1,0 +1,11 @@
+Column,Action,Reason
+order_approved_at,Keep,Missing for cancelled/unavailable orders.
+order_delivered_carrier_date,Keep,Missing for undelivered orders.
+order_delivered_customer_date,Keep,Missing for undelivered orders.
+review_comment_title,Keep,Optional customer input.
+review_comment_message,Keep,Optional customer input.
+product_category_name,Fill with 'unknown',Missing translation only.
+product_weight_g,Keep,Unknown product attributes.
+product_length_cm,Keep,Unknown dimensions.
+product_height_cm,Keep,Unknown dimensions.
+product_width_cm,Keep,Unknown dimensions.

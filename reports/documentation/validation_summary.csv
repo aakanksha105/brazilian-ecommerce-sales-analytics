@@ -1,0 +1,8 @@
+Check,Status,Remarks
+Customer IDs Unique,True,Passed
+Order IDs Unique,True,Passed
+Product IDs Unique,True,Passed
+Seller IDs Unique,True,Passed
+Review IDs (Original Dataset),False,Duplicate review IDs exist in the source dataset.
+Order Item Composite Key,True,Passed
+Payment Composite Key,True,Passed

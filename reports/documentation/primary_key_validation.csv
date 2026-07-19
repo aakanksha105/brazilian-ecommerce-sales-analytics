@@ -1,0 +1,6 @@
+Dataset,Primary Key,Missing,Duplicate Keys
+Customers,customer_id,0,0
+Orders,order_id,0,0
+Products,product_id,0,0
+Sellers,seller_id,0,0
+Reviews,review_id,0,814
