@@ -95,8 +95,6 @@ Built an interactive executive dashboard featuring:
 
 # Dashboard Preview
 
-> Add a screenshot here after publishing.
-
 ```
 screenshots/executive_dashboard.png
 ```
