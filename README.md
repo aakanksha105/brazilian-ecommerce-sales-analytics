@@ -5,6 +5,7 @@ An end-to-end Business Intelligence project analyzing Brazilian e-commerce trans
 ## 🔗 Live Dashboard
 
 **Tableau Public:** [https://public.tableau.com/views/brazilian-ecommerce-sales-analytics](https://public.tableau.com/views/Brazilian_Ecommerce_Sales_Customer_Analytics_twbx/BrazilianE-commerceSalesCustomerAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 ---
 
 ## Project Overview
